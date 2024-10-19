@@ -3,11 +3,6 @@ Schwarz Java Code Review
 
 ## Global overview
 
-Current application architecture it is similar to DDD (Domain Driven Design) as
-the structure organize the code base on core/domain and core/services. For
-other side there is an abstraction of the repositories.
-The architecture also is showing a separation of concerns( configuration, 
-web and domain)
 
 The current application architecture resembles Domain-Driven Design (DDD),
 with a codebase structure organized around core/domain and core/services 
